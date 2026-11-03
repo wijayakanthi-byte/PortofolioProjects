@@ -25,6 +25,6 @@
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 - Adidas US Sales Analysis <br />
 
-![Dashboard](visuals/excel/Dashboards.png)
+![Dashboard](Dashboard%20adidas.png)
 *Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/wijayakanthi-byte/Adidas-US-Sales-Analysis)**<br />
 
